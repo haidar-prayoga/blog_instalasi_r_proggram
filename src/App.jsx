@@ -15,10 +15,10 @@ function App() {
       <Header />
       <UnderHeader />
       <main>
-        <BlogPost className={"bg-gray-400 w-full lg:h-[120vh] sm:h-[135vh] pt-4"} />
+        <BlogPost className={"background-componen w-full lg:h-[120vh] sm:h-[135vh] pt-4"} />
         <ScrollToTopButton />
         <BlogPost2 className={"w-full lg:h-[259vh] sm:h-[160vh] mt-5"} />
-        <BlogPost3 className={"bg-gray-400 w-full lg:h-[897vh] sm:h-[500vh] p-3"} />
+        <BlogPost3 className={"background-componen w-full lg:h-[900vh] sm:h-[500vh] p-3"} />
         <Tugas className={"w-full lg:h-[450vh] sm:has-[300vh]:] p-3"} />
       </main>
       <Footer />

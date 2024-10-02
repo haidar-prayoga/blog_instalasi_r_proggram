@@ -5,3 +5,9 @@
 .border-gray-rounded {
   @apply border border-gray-400 rounded-lg;
 }
+.color-text {
+  @apply text-gray-800;
+}
+.background-componen {
+  @apply bg-indigo-50;
+}
